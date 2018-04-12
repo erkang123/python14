@@ -1,0 +1,7 @@
+三元运算符：
+    result = 值1 if 条件  else  值2
+    如果条件为真：result = 值1
+    如果条件为假：result = 值2
+
+import sys
+print(sys.getdefaultencoding())
